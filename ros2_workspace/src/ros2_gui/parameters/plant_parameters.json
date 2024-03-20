@@ -1,0 +1,1102 @@
+[
+    {
+        "Apple": {
+            "minimum_temp": 8,
+            "maximum_temp": 94,
+            "minimum_humidity": 10,
+            "maximum_humidity": 75,
+            "minimum_water": 2,
+            "maximum_water": 27,
+            "target_soil_moisture": 11
+        }
+    },
+    {
+        "Apricot": {
+            "minimum_temp": 0,
+            "maximum_temp": 93,
+            "minimum_humidity": 10,
+            "maximum_humidity": 51,
+            "minimum_water": 3,
+            "maximum_water": 40,
+            "target_soil_moisture": 16
+        }
+    },
+    {
+        "Avocado": {
+            "minimum_temp": 19,
+            "maximum_temp": 92,
+            "minimum_humidity": 19,
+            "maximum_humidity": 50,
+            "minimum_water": 18,
+            "maximum_water": 36,
+            "target_soil_moisture": 9
+        }
+    },
+    {
+        "Banana": {
+            "minimum_temp": 6,
+            "maximum_temp": 103,
+            "minimum_humidity": 4,
+            "maximum_humidity": 86,
+            "minimum_water": 20,
+            "maximum_water": 24,
+            "target_soil_moisture": 6
+        }
+    },
+    {
+        "Blackberry": {
+            "minimum_temp": 20,
+            "maximum_temp": 100,
+            "minimum_humidity": 41,
+            "maximum_humidity": 77,
+            "minimum_water": 6,
+            "maximum_water": 26,
+            "target_soil_moisture": 0
+        }
+    },
+    {
+        "Blueberry": {
+            "minimum_temp": 3,
+            "maximum_temp": 103,
+            "minimum_humidity": 0,
+            "maximum_humidity": 91,
+            "minimum_water": 10,
+            "maximum_water": 21,
+            "target_soil_moisture": 8
+        }
+    },
+    {
+        "Boysenberry": {
+            "minimum_temp": 19,
+            "maximum_temp": 85,
+            "minimum_humidity": 15,
+            "maximum_humidity": 98,
+            "minimum_water": 4,
+            "maximum_water": 38,
+            "target_soil_moisture": 15
+        }
+    },
+    {
+        "Cantaloupe": {
+            "minimum_temp": 9,
+            "maximum_temp": 100,
+            "minimum_humidity": 39,
+            "maximum_humidity": 84,
+            "minimum_water": 20,
+            "maximum_water": 33,
+            "target_soil_moisture": 4
+        }
+    },
+    {
+        "Cherry": {
+            "minimum_temp": 14,
+            "maximum_temp": 109,
+            "minimum_humidity": 34,
+            "maximum_humidity": 90,
+            "minimum_water": 9,
+            "maximum_water": 21,
+            "target_soil_moisture": 11
+        }
+    },
+    {
+        "Clementine": {
+            "minimum_temp": 20,
+            "maximum_temp": 85,
+            "minimum_humidity": 50,
+            "maximum_humidity": 95,
+            "minimum_water": 11,
+            "maximum_water": 25,
+            "target_soil_moisture": 15
+        }
+    },
+    {
+        "Coconut": {
+            "minimum_temp": 6,
+            "maximum_temp": 87,
+            "minimum_humidity": 24,
+            "maximum_humidity": 56,
+            "minimum_water": 19,
+            "maximum_water": 32,
+            "target_soil_moisture": 17
+        }
+    },
+    {
+        "Cranberry": {
+            "minimum_temp": 18,
+            "maximum_temp": 107,
+            "minimum_humidity": 32,
+            "maximum_humidity": 73,
+            "minimum_water": 14,
+            "maximum_water": 34,
+            "target_soil_moisture": 18
+        }
+    },
+    {
+        "Date": {
+            "minimum_temp": 9,
+            "maximum_temp": 98,
+            "minimum_humidity": 49,
+            "maximum_humidity": 61,
+            "minimum_water": 4,
+            "maximum_water": 26,
+            "target_soil_moisture": 15
+        }
+    },
+    {
+        "Dragonfruit": {
+            "minimum_temp": 9,
+            "maximum_temp": 106,
+            "minimum_humidity": 12,
+            "maximum_humidity": 68,
+            "minimum_water": 16,
+            "maximum_water": 22,
+            "target_soil_moisture": 20
+        }
+    },
+    {
+        "Elderberry": {
+            "minimum_temp": 11,
+            "maximum_temp": 96,
+            "minimum_humidity": 24,
+            "maximum_humidity": 94,
+            "minimum_water": 3,
+            "maximum_water": 38,
+            "target_soil_moisture": 2
+        }
+    },
+    {
+        "Fig": {
+            "minimum_temp": 19,
+            "maximum_temp": 105,
+            "minimum_humidity": 40,
+            "maximum_humidity": 93,
+            "minimum_water": 16,
+            "maximum_water": 23,
+            "target_soil_moisture": 16
+        }
+    },
+    {
+        "Grape": {
+            "minimum_temp": 4,
+            "maximum_temp": 82,
+            "minimum_humidity": 24,
+            "maximum_humidity": 54,
+            "minimum_water": 10,
+            "maximum_water": 37,
+            "target_soil_moisture": 18
+        }
+    },
+    {
+        "Grapefruit": {
+            "minimum_temp": 9,
+            "maximum_temp": 106,
+            "minimum_humidity": 50,
+            "maximum_humidity": 98,
+            "minimum_water": 7,
+            "maximum_water": 26,
+            "target_soil_moisture": 8
+        }
+    },
+    {
+        "Guava": {
+            "minimum_temp": 8,
+            "maximum_temp": 89,
+            "minimum_humidity": 41,
+            "maximum_humidity": 73,
+            "minimum_water": 12,
+            "maximum_water": 20,
+            "target_soil_moisture": 4
+        }
+    },
+    {
+        "Honeydew": {
+            "minimum_temp": 16,
+            "maximum_temp": 88,
+            "minimum_humidity": 22,
+            "maximum_humidity": 71,
+            "minimum_water": 6,
+            "maximum_water": 38,
+            "target_soil_moisture": 7
+        }
+    },
+    {
+        "Kiwi": {
+            "minimum_temp": 18,
+            "maximum_temp": 85,
+            "minimum_humidity": 20,
+            "maximum_humidity": 70,
+            "minimum_water": 17,
+            "maximum_water": 34,
+            "target_soil_moisture": 6
+        }
+    },
+    {
+        "Kumquat": {
+            "minimum_temp": 20,
+            "maximum_temp": 88,
+            "minimum_humidity": 14,
+            "maximum_humidity": 98,
+            "minimum_water": 5,
+            "maximum_water": 21,
+            "target_soil_moisture": 1
+        }
+    },
+    {
+        "Lemon": {
+            "minimum_temp": 0,
+            "maximum_temp": 86,
+            "minimum_humidity": 36,
+            "maximum_humidity": 83,
+            "minimum_water": 15,
+            "maximum_water": 36,
+            "target_soil_moisture": 18
+        }
+    },
+    {
+        "Lime": {
+            "minimum_temp": 15,
+            "maximum_temp": 80,
+            "minimum_humidity": 23,
+            "maximum_humidity": 76,
+            "minimum_water": 19,
+            "maximum_water": 34,
+            "target_soil_moisture": 17
+        }
+    },
+    {
+        "Lychee": {
+            "minimum_temp": 7,
+            "maximum_temp": 105,
+            "minimum_humidity": 8,
+            "maximum_humidity": 94,
+            "minimum_water": 13,
+            "maximum_water": 36,
+            "target_soil_moisture": 9
+        }
+    },
+    {
+        "Mango": {
+            "minimum_temp": 8,
+            "maximum_temp": 104,
+            "minimum_humidity": 43,
+            "maximum_humidity": 73,
+            "minimum_water": 20,
+            "maximum_water": 40,
+            "target_soil_moisture": 5
+        }
+    },
+    {
+        "Mulberry": {
+            "minimum_temp": 13,
+            "maximum_temp": 101,
+            "minimum_humidity": 46,
+            "maximum_humidity": 57,
+            "minimum_water": 3,
+            "maximum_water": 35,
+            "target_soil_moisture": 9
+        }
+    },
+    {
+        "Nectarine": {
+            "minimum_temp": 9,
+            "maximum_temp": 104,
+            "minimum_humidity": 50,
+            "maximum_humidity": 92,
+            "minimum_water": 19,
+            "maximum_water": 40,
+            "target_soil_moisture": 8
+        }
+    },
+    {
+        "Orange": {
+            "minimum_temp": 10,
+            "maximum_temp": 87,
+            "minimum_humidity": 2,
+            "maximum_humidity": 65,
+            "minimum_water": 18,
+            "maximum_water": 35,
+            "target_soil_moisture": 13
+        }
+    },
+    {
+        "Papaya": {
+            "minimum_temp": 0,
+            "maximum_temp": 95,
+            "minimum_humidity": 50,
+            "maximum_humidity": 75,
+            "minimum_water": 11,
+            "maximum_water": 34,
+            "target_soil_moisture": 7
+        }
+    },
+    {
+        "Passion Fruit": {
+            "minimum_temp": 8,
+            "maximum_temp": 82,
+            "minimum_humidity": 33,
+            "maximum_humidity": 82,
+            "minimum_water": 4,
+            "maximum_water": 20,
+            "target_soil_moisture": 20
+        }
+    },
+    {
+        "Peach": {
+            "minimum_temp": 18,
+            "maximum_temp": 81,
+            "minimum_humidity": 13,
+            "maximum_humidity": 93,
+            "minimum_water": 8,
+            "maximum_water": 36,
+            "target_soil_moisture": 0
+        }
+    },
+    {
+        "Pear": {
+            "minimum_temp": 13,
+            "maximum_temp": 87,
+            "minimum_humidity": 46,
+            "maximum_humidity": 73,
+            "minimum_water": 8,
+            "maximum_water": 26,
+            "target_soil_moisture": 12
+        }
+    },
+    {
+        "Pineapple": {
+            "minimum_temp": 7,
+            "maximum_temp": 91,
+            "minimum_humidity": 30,
+            "maximum_humidity": 65,
+            "minimum_water": 10,
+            "maximum_water": 25,
+            "target_soil_moisture": 15
+        }
+    },
+    {
+        "Plum": {
+            "minimum_temp": 2,
+            "maximum_temp": 104,
+            "minimum_humidity": 5,
+            "maximum_humidity": 59,
+            "minimum_water": 14,
+            "maximum_water": 36,
+            "target_soil_moisture": 1
+        }
+    },
+    {
+        "Pomegranate": {
+            "minimum_temp": 7,
+            "maximum_temp": 85,
+            "minimum_humidity": 50,
+            "maximum_humidity": 50,
+            "minimum_water": 9,
+            "maximum_water": 29,
+            "target_soil_moisture": 8
+        }
+    },
+    {
+        "Raspberry": {
+            "minimum_temp": 11,
+            "maximum_temp": 110,
+            "minimum_humidity": 36,
+            "maximum_humidity": 89,
+            "minimum_water": 12,
+            "maximum_water": 30,
+            "target_soil_moisture": 9
+        }
+    },
+    {
+        "Red Currant": {
+            "minimum_temp": 6,
+            "maximum_temp": 85,
+            "minimum_humidity": 22,
+            "maximum_humidity": 54,
+            "minimum_water": 15,
+            "maximum_water": 22,
+            "target_soil_moisture": 20
+        }
+    },
+    {
+        "Starfruit": {
+            "minimum_temp": 8,
+            "maximum_temp": 106,
+            "minimum_humidity": 34,
+            "maximum_humidity": 64,
+            "minimum_water": 15,
+            "maximum_water": 27,
+            "target_soil_moisture": 17
+        }
+    },
+    {
+        "Strawberry": {
+            "minimum_temp": 20,
+            "maximum_temp": 108,
+            "minimum_humidity": 7,
+            "maximum_humidity": 98,
+            "minimum_water": 6,
+            "maximum_water": 22,
+            "target_soil_moisture": 8
+        }
+    },
+    {
+        "Tangerine": {
+            "minimum_temp": 5,
+            "maximum_temp": 105,
+            "minimum_humidity": 4,
+            "maximum_humidity": 66,
+            "minimum_water": 20,
+            "maximum_water": 38,
+            "target_soil_moisture": 10
+        }
+    },
+    {
+        "Ugli Fruit": {
+            "minimum_temp": 9,
+            "maximum_temp": 106,
+            "minimum_humidity": 25,
+            "maximum_humidity": 71,
+            "minimum_water": 19,
+            "maximum_water": 30,
+            "target_soil_moisture": 11
+        }
+    },
+    {
+        "Watermelon": {
+            "minimum_temp": 13,
+            "maximum_temp": 110,
+            "minimum_humidity": 26,
+            "maximum_humidity": 80,
+            "minimum_water": 15,
+            "maximum_water": 39,
+            "target_soil_moisture": 16
+        }
+    },
+    {
+        "White Currant": {
+            "minimum_temp": 18,
+            "maximum_temp": 98,
+            "minimum_humidity": 46,
+            "maximum_humidity": 50,
+            "minimum_water": 10,
+            "maximum_water": 37,
+            "target_soil_moisture": 8
+        }
+    },
+    {
+        "White Sapote": {
+            "minimum_temp": 10,
+            "maximum_temp": 91,
+            "minimum_humidity": 26,
+            "maximum_humidity": 71,
+            "minimum_water": 4,
+            "maximum_water": 33,
+            "target_soil_moisture": 12
+        }
+    },
+    {
+        "Yellow Watermelon": {
+            "minimum_temp": 12,
+            "maximum_temp": 90,
+            "minimum_humidity": 40,
+            "maximum_humidity": 60,
+            "minimum_water": 14,
+            "maximum_water": 27,
+            "target_soil_moisture": 11
+        }
+    },
+    {
+        "Yuzu": {
+            "minimum_temp": 13,
+            "maximum_temp": 109,
+            "minimum_humidity": 23,
+            "maximum_humidity": 82,
+            "minimum_water": 9,
+            "maximum_water": 36,
+            "target_soil_moisture": 15
+        }
+    },
+    {
+        "Zucchini (Courgette)": {
+            "minimum_temp": 0,
+            "maximum_temp": 90,
+            "minimum_humidity": 12,
+            "maximum_humidity": 71,
+            "minimum_water": 2,
+            "maximum_water": 27,
+            "target_soil_moisture": 15
+        }
+    },
+    {
+        "Quince": {
+            "minimum_temp": 9,
+            "maximum_temp": 107,
+            "minimum_humidity": 24,
+            "maximum_humidity": 100,
+            "minimum_water": 14,
+            "maximum_water": 26,
+            "target_soil_moisture": 8
+        }
+    },
+    {
+        "Persimmon": {
+            "minimum_temp": 17,
+            "maximum_temp": 93,
+            "minimum_humidity": 35,
+            "maximum_humidity": 54,
+            "minimum_water": 19,
+            "maximum_water": 35,
+            "target_soil_moisture": 19
+        }
+    },
+    {
+        "Artichoke": {
+            "minimum_temp": 12,
+            "maximum_temp": 109,
+            "minimum_humidity": 4,
+            "maximum_humidity": 81,
+            "minimum_water": 2,
+            "maximum_water": 23,
+            "target_soil_moisture": 0
+        }
+    },
+    {
+        "Arugula": {
+            "minimum_temp": 20,
+            "maximum_temp": 87,
+            "minimum_humidity": 8,
+            "maximum_humidity": 90,
+            "minimum_water": 13,
+            "maximum_water": 33,
+            "target_soil_moisture": 13
+        }
+    },
+    {
+        "Asparagus": {
+            "minimum_temp": 11,
+            "maximum_temp": 96,
+            "minimum_humidity": 21,
+            "maximum_humidity": 82,
+            "minimum_water": 14,
+            "maximum_water": 37,
+            "target_soil_moisture": 13
+        }
+    },
+    {
+        "Beetroot": {
+            "minimum_temp": 17,
+            "maximum_temp": 98,
+            "minimum_humidity": 29,
+            "maximum_humidity": 74,
+            "minimum_water": 11,
+            "maximum_water": 27,
+            "target_soil_moisture": 16
+        }
+    },
+    {
+        "Bell Pepper": {
+            "minimum_temp": 7,
+            "maximum_temp": 94,
+            "minimum_humidity": 32,
+            "maximum_humidity": 65,
+            "minimum_water": 7,
+            "maximum_water": 34,
+            "target_soil_moisture": 10
+        }
+    },
+    {
+        "Black-eyed Peas": {
+            "minimum_temp": 20,
+            "maximum_temp": 93,
+            "minimum_humidity": 13,
+            "maximum_humidity": 96,
+            "minimum_water": 7,
+            "maximum_water": 22,
+            "target_soil_moisture": 1
+        }
+    },
+    {
+        "Broccoli": {
+            "minimum_temp": 11,
+            "maximum_temp": 106,
+            "minimum_humidity": 1,
+            "maximum_humidity": 53,
+            "minimum_water": 6,
+            "maximum_water": 21,
+            "target_soil_moisture": 5
+        }
+    },
+    {
+        "Brussels Sprouts": {
+            "minimum_temp": 7,
+            "maximum_temp": 90,
+            "minimum_humidity": 3,
+            "maximum_humidity": 71,
+            "minimum_water": 15,
+            "maximum_water": 40,
+            "target_soil_moisture": 7
+        }
+    },
+    {
+        "Cabbage": {
+            "minimum_temp": 3,
+            "maximum_temp": 109,
+            "minimum_humidity": 22,
+            "maximum_humidity": 56,
+            "minimum_water": 6,
+            "maximum_water": 24,
+            "target_soil_moisture": 18
+        }
+    },
+    {
+        "Carrot": {
+            "minimum_temp": 0,
+            "maximum_temp": 88,
+            "minimum_humidity": 18,
+            "maximum_humidity": 93,
+            "minimum_water": 1,
+            "maximum_water": 26,
+            "target_soil_moisture": 11
+        }
+    },
+    {
+        "Cauliflower": {
+            "minimum_temp": 18,
+            "maximum_temp": 84,
+            "minimum_humidity": 25,
+            "maximum_humidity": 76,
+            "minimum_water": 7,
+            "maximum_water": 25,
+            "target_soil_moisture": 18
+        }
+    },
+    {
+        "Celery": {
+            "minimum_temp": 7,
+            "maximum_temp": 102,
+            "minimum_humidity": 28,
+            "maximum_humidity": 77,
+            "minimum_water": 5,
+            "maximum_water": 37,
+            "target_soil_moisture": 15
+        }
+    },
+    {
+        "Chard": {
+            "minimum_temp": 1,
+            "maximum_temp": 88,
+            "minimum_humidity": 40,
+            "maximum_humidity": 66,
+            "minimum_water": 5,
+            "maximum_water": 33,
+            "target_soil_moisture": 15
+        }
+    },
+    {
+        "Collards": {
+            "minimum_temp": 20,
+            "maximum_temp": 110,
+            "minimum_humidity": 41,
+            "maximum_humidity": 98,
+            "minimum_water": 18,
+            "maximum_water": 33,
+            "target_soil_moisture": 16
+        }
+    },
+    {
+        "Corn": {
+            "minimum_temp": 3,
+            "maximum_temp": 98,
+            "minimum_humidity": 18,
+            "maximum_humidity": 58,
+            "minimum_water": 20,
+            "maximum_water": 35,
+            "target_soil_moisture": 16
+        }
+    },
+    {
+        "Cucumber": {
+            "minimum_temp": 10,
+            "maximum_temp": 85,
+            "minimum_humidity": 24,
+            "maximum_humidity": 81,
+            "minimum_water": 13,
+            "maximum_water": 34,
+            "target_soil_moisture": 16
+        }
+    },
+    {
+        "Eggplant": {
+            "minimum_temp": 12,
+            "maximum_temp": 100,
+            "minimum_humidity": 24,
+            "maximum_humidity": 72,
+            "minimum_water": 0,
+            "maximum_water": 22,
+            "target_soil_moisture": 1
+        }
+    },
+    {
+        "Fennel": {
+            "minimum_temp": 0,
+            "maximum_temp": 81,
+            "minimum_humidity": 9,
+            "maximum_humidity": 50,
+            "minimum_water": 16,
+            "maximum_water": 22,
+            "target_soil_moisture": 8
+        }
+    },
+    {
+        "Garlic": {
+            "minimum_temp": 15,
+            "maximum_temp": 98,
+            "minimum_humidity": 14,
+            "maximum_humidity": 60,
+            "minimum_water": 15,
+            "maximum_water": 40,
+            "target_soil_moisture": 0
+        }
+    },
+    {
+        "Green Beans": {
+            "minimum_temp": 15,
+            "maximum_temp": 89,
+            "minimum_humidity": 31,
+            "maximum_humidity": 56,
+            "minimum_water": 4,
+            "maximum_water": 23,
+            "target_soil_moisture": 4
+        }
+    },
+    {
+        "Kale": {
+            "minimum_temp": 16,
+            "maximum_temp": 93,
+            "minimum_humidity": 44,
+            "maximum_humidity": 95,
+            "minimum_water": 8,
+            "maximum_water": 34,
+            "target_soil_moisture": 19
+        }
+    },
+    {
+        "Leek": {
+            "minimum_temp": 17,
+            "maximum_temp": 90,
+            "minimum_humidity": 0,
+            "maximum_humidity": 56,
+            "minimum_water": 4,
+            "maximum_water": 23,
+            "target_soil_moisture": 3
+        }
+    },
+    {
+        "Lettuce": {
+            "minimum_temp": 15,
+            "maximum_temp": 107,
+            "minimum_humidity": 36,
+            "maximum_humidity": 92,
+            "minimum_water": 5,
+            "maximum_water": 33,
+            "target_soil_moisture": 17
+        }
+    },
+    {
+        "Mushroom": {
+            "minimum_temp": 14,
+            "maximum_temp": 85,
+            "minimum_humidity": 17,
+            "maximum_humidity": 69,
+            "minimum_water": 12,
+            "maximum_water": 34,
+            "target_soil_moisture": 4
+        }
+    },
+    {
+        "Mustard Greens": {
+            "minimum_temp": 5,
+            "maximum_temp": 92,
+            "minimum_humidity": 9,
+            "maximum_humidity": 86,
+            "minimum_water": 17,
+            "maximum_water": 31,
+            "target_soil_moisture": 6
+        }
+    },
+    {
+        "Okra": {
+            "minimum_temp": 12,
+            "maximum_temp": 90,
+            "minimum_humidity": 7,
+            "maximum_humidity": 88,
+            "minimum_water": 4,
+            "maximum_water": 37,
+            "target_soil_moisture": 20
+        }
+    },
+    {
+        "Onion": {
+            "minimum_temp": 12,
+            "maximum_temp": 109,
+            "minimum_humidity": 2,
+            "maximum_humidity": 64,
+            "minimum_water": 12,
+            "maximum_water": 22,
+            "target_soil_moisture": 15
+        }
+    },
+    {
+        "Parsnip": {
+            "minimum_temp": 9,
+            "maximum_temp": 84,
+            "minimum_humidity": 31,
+            "maximum_humidity": 73,
+            "minimum_water": 3,
+            "maximum_water": 22,
+            "target_soil_moisture": 12
+        }
+    },
+    {
+        "Pea": {
+            "minimum_temp": 17,
+            "maximum_temp": 102,
+            "minimum_humidity": 15,
+            "maximum_humidity": 81,
+            "minimum_water": 2,
+            "maximum_water": 30,
+            "target_soil_moisture": 2
+        }
+    },
+    {
+        "Potato": {
+            "minimum_temp": 19,
+            "maximum_temp": 99,
+            "minimum_humidity": 36,
+            "maximum_humidity": 80,
+            "minimum_water": 13,
+            "maximum_water": 40,
+            "target_soil_moisture": 4
+        }
+    },
+    {
+        "Pumpkin": {
+            "minimum_temp": 9,
+            "maximum_temp": 98,
+            "minimum_humidity": 31,
+            "maximum_humidity": 75,
+            "minimum_water": 18,
+            "maximum_water": 33,
+            "target_soil_moisture": 3
+        }
+    },
+    {
+        "Radish": {
+            "minimum_temp": 3,
+            "maximum_temp": 97,
+            "minimum_humidity": 40,
+            "maximum_humidity": 59,
+            "minimum_water": 2,
+            "maximum_water": 32,
+            "target_soil_moisture": 14
+        }
+    },
+    {
+        "Rhubarb": {
+            "minimum_temp": 15,
+            "maximum_temp": 99,
+            "minimum_humidity": 4,
+            "maximum_humidity": 84,
+            "minimum_water": 0,
+            "maximum_water": 32,
+            "target_soil_moisture": 6
+        }
+    },
+    {
+        "Rutabaga": {
+            "minimum_temp": 9,
+            "maximum_temp": 109,
+            "minimum_humidity": 27,
+            "maximum_humidity": 95,
+            "minimum_water": 5,
+            "maximum_water": 30,
+            "target_soil_moisture": 13
+        }
+    },
+    {
+        "Spinach": {
+            "minimum_temp": 6,
+            "maximum_temp": 103,
+            "minimum_humidity": 23,
+            "maximum_humidity": 99,
+            "minimum_water": 17,
+            "maximum_water": 28,
+            "target_soil_moisture": 5
+        }
+    },
+    {
+        "Squash": {
+            "minimum_temp": 19,
+            "maximum_temp": 90,
+            "minimum_humidity": 11,
+            "maximum_humidity": 51,
+            "minimum_water": 15,
+            "maximum_water": 40,
+            "target_soil_moisture": 14
+        }
+    },
+    {
+        "Sweet Potato": {
+            "minimum_temp": 2,
+            "maximum_temp": 90,
+            "minimum_humidity": 5,
+            "maximum_humidity": 87,
+            "minimum_water": 14,
+            "maximum_water": 36,
+            "target_soil_moisture": 14
+        }
+    },
+    {
+        "Tomato": {
+            "minimum_temp": 16,
+            "maximum_temp": 85,
+            "minimum_humidity": 17,
+            "maximum_humidity": 57,
+            "minimum_water": 9,
+            "maximum_water": 24,
+            "target_soil_moisture": 16
+        }
+    },
+    {
+        "Turnip": {
+            "minimum_temp": 1,
+            "maximum_temp": 106,
+            "minimum_humidity": 0,
+            "maximum_humidity": 95,
+            "minimum_water": 4,
+            "maximum_water": 38,
+            "target_soil_moisture": 20
+        }
+    },
+    {
+        "Watercress": {
+            "minimum_temp": 7,
+            "maximum_temp": 91,
+            "minimum_humidity": 29,
+            "maximum_humidity": 97,
+            "minimum_water": 12,
+            "maximum_water": 28,
+            "target_soil_moisture": 2
+        }
+    },
+    {
+        "Yam": {
+            "minimum_temp": 0,
+            "maximum_temp": 108,
+            "minimum_humidity": 47,
+            "maximum_humidity": 74,
+            "minimum_water": 16,
+            "maximum_water": 36,
+            "target_soil_moisture": 14
+        }
+    },
+    {
+        "Zucchini": {
+            "minimum_temp": 17,
+            "maximum_temp": 90,
+            "minimum_humidity": 25,
+            "maximum_humidity": 100,
+            "minimum_water": 13,
+            "maximum_water": 31,
+            "target_soil_moisture": 9
+        }
+    },
+    {
+        "Acorn Squash": {
+            "minimum_temp": 12,
+            "maximum_temp": 93,
+            "minimum_humidity": 17,
+            "maximum_humidity": 76,
+            "minimum_water": 12,
+            "maximum_water": 34,
+            "target_soil_moisture": 2
+        }
+    },
+    {
+        "Butternut Squash": {
+            "minimum_temp": 20,
+            "maximum_temp": 86,
+            "minimum_humidity": 35,
+            "maximum_humidity": 65,
+            "minimum_water": 5,
+            "maximum_water": 26,
+            "target_soil_moisture": 3
+        }
+    },
+    {
+        "Chayote": {
+            "minimum_temp": 19,
+            "maximum_temp": 87,
+            "minimum_humidity": 20,
+            "maximum_humidity": 92,
+            "minimum_water": 20,
+            "maximum_water": 29,
+            "target_soil_moisture": 7
+        }
+    },
+    {
+        "Chicory": {
+            "minimum_temp": 19,
+            "maximum_temp": 103,
+            "minimum_humidity": 46,
+            "maximum_humidity": 86,
+            "minimum_water": 1,
+            "maximum_water": 37,
+            "target_soil_moisture": 2
+        }
+    },
+    {
+        "Daikon": {
+            "minimum_temp": 15,
+            "maximum_temp": 80,
+            "minimum_humidity": 2,
+            "maximum_humidity": 51,
+            "minimum_water": 19,
+            "maximum_water": 25,
+            "target_soil_moisture": 15
+        }
+    },
+    {
+        "Endive": {
+            "minimum_temp": 13,
+            "maximum_temp": 105,
+            "minimum_humidity": 28,
+            "maximum_humidity": 91,
+            "minimum_water": 8,
+            "maximum_water": 30,
+            "target_soil_moisture": 1
+        }
+    },
+    {
+        "Kohlrabi": {
+            "minimum_temp": 12,
+            "maximum_temp": 108,
+            "minimum_humidity": 34,
+            "maximum_humidity": 64,
+            "minimum_water": 14,
+            "maximum_water": 38,
+            "target_soil_moisture": 15
+        }
+    },
+    {
+        "Parsley Root": {
+            "minimum_temp": 10,
+            "maximum_temp": 106,
+            "minimum_humidity": 39,
+            "maximum_humidity": 52,
+            "minimum_water": 4,
+            "maximum_water": 33,
+            "target_soil_moisture": 4
+        }
+    }
+]

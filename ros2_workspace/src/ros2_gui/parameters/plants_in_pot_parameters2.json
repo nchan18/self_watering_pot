@@ -1,0 +1,112 @@
+[
+    {
+        "Apple": {
+            "minimum_temp": 8,
+            "maximum_temp": 94,
+            "minimum_humidity": 10,
+            "maximum_humidity": 75,
+            "minimum_water": 2,
+            "maximum_water": 27,
+            "target_soil_moisture": 11
+        }
+    },
+    {
+        "Apricot": {
+            "minimum_temp": 0,
+            "maximum_temp": 93,
+            "minimum_humidity": 10,
+            "maximum_humidity": 51,
+            "minimum_water": 3,
+            "maximum_water": 40,
+            "target_soil_moisture": 16
+        }
+    },
+    {
+        "Lemon": {
+            "minimum_temp": 0,
+            "maximum_temp": 86,
+            "minimum_humidity": 36,
+            "maximum_humidity": 83,
+            "minimum_water": 15,
+            "maximum_water": 36,
+            "target_soil_moisture": 18
+        }
+    },
+    {
+        "Starfruit": {
+            "minimum_temp": 8,
+            "maximum_temp": 106,
+            "minimum_humidity": 34,
+            "maximum_humidity": 64,
+            "minimum_water": 15,
+            "maximum_water": 27,
+            "target_soil_moisture": 17
+        }
+    },
+    {
+        "Black-eyed Peas": {
+            "minimum_temp": 20,
+            "maximum_temp": 93,
+            "minimum_humidity": 13,
+            "maximum_humidity": 96,
+            "minimum_water": 7,
+            "maximum_water": 22,
+            "target_soil_moisture": 1
+        }
+    },
+    {
+        "Eggplant": {
+            "minimum_temp": 12,
+            "maximum_temp": 100,
+            "minimum_humidity": 24,
+            "maximum_humidity": 72,
+            "minimum_water": 0,
+            "maximum_water": 22,
+            "target_soil_moisture": 1
+        }
+    },
+    {
+        "Squash": {
+            "minimum_temp": 19,
+            "maximum_temp": 90,
+            "minimum_humidity": 11,
+            "maximum_humidity": 51,
+            "minimum_water": 15,
+            "maximum_water": 40,
+            "target_soil_moisture": 14
+        }
+    },
+    {
+        "Sweet Potato": {
+            "minimum_temp": 2,
+            "maximum_temp": 90,
+            "minimum_humidity": 5,
+            "maximum_humidity": 87,
+            "minimum_water": 14,
+            "maximum_water": 36,
+            "target_soil_moisture": 14
+        }
+    },
+    {
+        "Tomato": {
+            "minimum_temp": 16,
+            "maximum_temp": 85,
+            "minimum_humidity": 17,
+            "maximum_humidity": 57,
+            "minimum_water": 9,
+            "maximum_water": 24,
+            "target_soil_moisture": 16
+        }
+    },
+    {
+        "Turnip": {
+            "minimum_temp": 1,
+            "maximum_temp": 106,
+            "minimum_humidity": 0,
+            "maximum_humidity": 95,
+            "minimum_water": 4,
+            "maximum_water": 38,
+            "target_soil_moisture": 20
+        }
+    }
+]
